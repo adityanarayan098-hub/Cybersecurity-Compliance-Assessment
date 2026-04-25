@@ -15,17 +15,17 @@ Cybersecurity ensures protection of systems and data from unauthorized access, a
 
 # 🎯 Key Objectives
 
- Perform system hardening (Windows, macOS, Linux)
- 
- Implement security policies (Email & BYOD)
- 
- Conduct compliance assessment (NIST & CMMC)
- 
- Apply encryption & data protection techniques
- 
- Design backup & disaster recovery strategy
- 
- Enhance cloud security posture
+Perform Windows 10/11 security hardening
+
+Configure macOS security settings
+
+Develop Email & BYOD security policies
+
+Conduct compliance assessment using NIST & CMMC frameworks
+
+Implement cloud security best practices
+
+Improve overall organizational security posture
 
  # 🧩 Project Modules
  
@@ -49,19 +49,30 @@ IAM (Identity & Access Management)
 
 CASB (Cloud Access Security Broker)
 
+# Compliance Assessment
+
+Windows Compliance: Based on NIST SP 800-53
+
+Linux Compliance: Based on CMMC Controls
+
+Identification of Met / Not Met controls
+
+Remediation strategies for gaps
+
 # 🔐 Security Implementations
 
 🔑 Strong Password Policies & MFA
 
 🔒 Disk Encryption (BitLocker / FileVault)
 
-🛡️ Firewall & Antivirus Protection
+🛡️ Firewall & Antivirus Configuration
 
-📊 Logging & Monitoring
+📊 System Logging & Monitoring
 
-🌐 Secure VPN Access
+🌐 Secure Remote Access (VPN)
 
-📱 Device Management (MDM)
+📱Device Management (MDM)
+
 
 # ⚠️ Key Findings
 
@@ -95,15 +106,20 @@ Backup strategies are essential for compliance and data protection responsibilit
 
 # 🛠️ Tools & Technologies
 
-Windows Defender
+Operating Systems: Windows 10/11, macOS, Linux (Ubuntu/CentOS/Kali)
 
-BitLocker
+Security Tools: Windows Defender, Firewall, BitLocker, FileVault
 
-FileVault
+Concepts:
+Vulnerability Assessment
 
-Firewall
+System Hardening
 
-VPN
+Risk Mitigation
+
+Security Policies
+
+Compliance Frameworks
 
 # 📈 Learning Outcomes
 
